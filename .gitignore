@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+develop-eggs/
+parts/
+wheels/
+*.egg-info/
+sdist/
+*.tox
+*.log
+*.out
+
+# Environments
+.env
+venv/
+env/
+ENV/
+
+# PyInstaller
+#  Often these are written to the current working directory, so be sure to
+#  ignore them even if you plan to commit your source code alongside the
+#  built application.
+/dist
+/build
+/.pyinstaller
+
+# IDEs and editors
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS or system files
+.DS_Store
