@@ -2,7 +2,7 @@ from langchain_ollama import ChatOllama, OllamaLLM
 from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
-from langchain.document_loaders import CSVLoader
+from langchain_community.document_loaders import CSVLoader
 
 # Conectando com o modelo rodando localmente no Ollama
 model = OllamaLLM(model="llama3")
