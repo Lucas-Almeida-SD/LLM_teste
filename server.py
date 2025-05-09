@@ -1,4 +1,4 @@
-from teste import chain
+from src.llm import chain
 from fastapi import FastAPI
 from langserve import add_routes
 

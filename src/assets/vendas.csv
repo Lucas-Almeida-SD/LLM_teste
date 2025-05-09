@@ -1,0 +1,150 @@
+ID_compra,filial,cidade,tipo_cliente,genero,tipo_produto,preco_unitario,quantidade,imposto_5%,total,data,hora,forma_pagamento,avaliacao
+750-67-8428,A,Santo André,Membro,Feminino,Saúde e Beleza,74.69,7,26.1415,548.9715,2024-01-05,13:08:00,Carteira Digital,9.1
+226-31-3081,C,São Caetano,Normal,Feminino,Eletrônicos,15.28,5,3.82,80.22,2024-03-08,10:29:00,Dinheiro,9.6
+631-41-3108,A,Santo André,Normal,Masculino,Casa,46.33,7,16.2155,340.5255,2024-03-03,13:23:00,Cartão de Crédito,7.4
+123-19-1176,A,Santo André,Membro,Masculino,Saúde e Beleza,58.22,8,23.288,489.048,2024-01-27,20:33:00,Carteira Digital,8.4
+373-73-7910,A,Santo André,Normal,Masculino,Esportes e Viagem,86.31,7,30.2085,634.3785,2024-02-08,10:37:00,Carteira Digital,5.3
+699-14-3026,C,São Caetano,Normal,Masculino,Eletrônicos,85.39,7,29.8865,627.6165,2024-03-25,18:30:00,Carteira Digital,4.1
+355-53-5943,A,Santo André,Membro,Feminino,Eletrônicos,68.84,6,20.652,433.692,2024-02-25,14:36:00,Carteira Digital,5.8
+315-22-5665,C,São Caetano,Normal,Feminino,Casa,73.56,10,36.78,772.38,2024-02-24,11:38:00,Carteira Digital,8.0
+665-32-9167,A,Santo André,Membro,Feminino,Saúde e Beleza,36.26,2,3.626,76.146,2024-01-10,17:15:00,Cartão de Crédito,7.2
+692-92-5582,B,São Bernardo do Campo,Membro,Feminino,Alimentos e Bebidas,54.84,3,8.226,172.746,2024-02-20,13:27:00,Cartão de Crédito,5.9
+351-62-0822,B,São Bernardo do Campo,Membro,Feminino,Moda,14.48,4,2.896,60.816,2024-02-06,18:07:00,Carteira Digital,4.5
+529-56-3974,B,São Bernardo do Campo,Membro,Masculino,Eletrônicos,25.51,4,5.102,107.142,2024-03-09,17:03:00,Dinheiro,6.8
+365-64-0515,A,Santo André,Normal,Feminino,Eletrônicos,46.95,5,11.7375,246.4875,2024-02-12,10:25:00,Carteira Digital,7.1
+252-56-2699,A,Santo André,Normal,Masculino,Alimentos e Bebidas,43.19,10,21.595,453.495,2024-02-07,16:48:00,Carteira Digital,8.2
+829-34-3910,A,Santo André,Normal,Feminino,Saúde e Beleza,71.38,10,35.69,749.49,2024-03-29,19:21:00,Dinheiro,5.7
+299-46-1805,B,São Bernardo do Campo,Membro,Feminino,Esportes e Viagem,93.72,6,28.116,590.436,2024-01-15,16:19:00,Dinheiro,4.5
+656-95-9349,A,Santo André,Membro,Feminino,Saúde e Beleza,68.93,7,24.1255,506.6355,2024-03-11,11:03:00,Cartão de Crédito,4.6
+765-26-6951,A,Santo André,Normal,Masculino,Esportes e Viagem,72.61,6,21.783,457.443,2024-01-01,10:39:00,Cartão de Crédito,6.9
+329-62-1586,A,Santo André,Normal,Masculino,Alimentos e Bebidas,54.67,3,8.2005,172.2105,2024-01-21,18:00:00,Cartão de Crédito,8.6
+319-50-3348,B,São Bernardo do Campo,Normal,Feminino,Casa,40.3,2,4.03,84.63,2024-03-11,15:30:00,Carteira Digital,4.4
+300-71-4605,C,São Caetano,Membro,Masculino,Eletrônicos,86.04,5,21.51,451.71,2024-02-25,11:24:00,Carteira Digital,4.8
+371-85-5789,B,São Bernardo do Campo,Normal,Masculino,Saúde e Beleza,87.98,3,13.197,277.137,2024-03-05,10:40:00,Carteira Digital,5.1
+273-16-6619,B,São Bernardo do Campo,Normal,Masculino,Casa,33.2,2,3.32,69.72,2024-03-15,12:20:00,Cartão de Crédito,4.4
+636-48-8204,A,Santo André,Normal,Masculino,Eletrônicos,34.56,5,8.64,181.44,2024-02-17,11:15:00,Carteira Digital,9.9
+549-59-1358,A,Santo André,Membro,Masculino,Esportes e Viagem,88.63,3,13.2945,279.1845,2024-03-02,17:36:00,Carteira Digital,6.0
+227-03-5010,A,Santo André,Membro,Feminino,Casa,52.59,8,21.036,441.756,2024-03-22,19:20:00,Cartão de Crédito,8.5
+649-29-6775,B,São Bernardo do Campo,Normal,Masculino,Moda,33.52,1,1.676,35.196,2024-02-08,15:31:00,Dinheiro,6.7
+189-17-4241,A,Santo André,Normal,Feminino,Moda,87.67,2,8.767,184.107,2024-03-10,12:17:00,Cartão de Crédito,7.7
+145-94-9061,B,São Bernardo do Campo,Normal,Feminino,Alimentos e Bebidas,88.36,5,22.09,463.89,2024-01-25,19:48:00,Dinheiro,9.6
+848-62-7243,A,Santo André,Normal,Masculino,Saúde e Beleza,24.89,9,11.2005,235.2105,2024-03-15,15:36:00,Dinheiro,7.4
+871-79-8483,B,São Bernardo do Campo,Normal,Masculino,Moda,94.13,5,23.5325,494.1825,2024-02-25,19:39:00,Cartão de Crédito,4.8
+149-71-6266,B,São Bernardo do Campo,Membro,Masculino,Esportes e Viagem,78.07,9,35.1315,737.7615,2024-01-28,12:43:00,Dinheiro,4.5
+640-49-2076,B,São Bernardo do Campo,Normal,Masculino,Esportes e Viagem,83.78,8,33.512,703.752,2024-01-10,14:49:00,Dinheiro,5.1
+595-11-5460,A,Santo André,Normal,Masculino,Saúde e Beleza,96.58,2,9.658,202.818,2024-03-15,10:12:00,Cartão de Crédito,5.1
+183-56-6882,C,São Caetano,Membro,Feminino,Alimentos e Bebidas,99.42,4,19.884,417.564,2024-02-06,10:42:00,Carteira Digital,7.5
+232-16-2483,C,São Caetano,Membro,Feminino,Esportes e Viagem,68.12,1,3.406,71.526,2024-01-07,12:28:00,Carteira Digital,6.8
+129-29-8530,A,Santo André,Membro,Masculino,Esportes e Viagem,62.62,5,15.655,328.755,2024-03-10,19:15:00,Carteira Digital,7.0
+272-65-1806,A,Santo André,Normal,Feminino,Eletrônicos,60.88,9,27.396,575.316,2024-01-15,17:17:00,Carteira Digital,4.7
+333-73-7901,C,São Caetano,Normal,Feminino,Saúde e Beleza,54.92,8,21.968,461.328,2024-03-23,13:24:00,Carteira Digital,7.6
+777-82-7220,B,São Bernardo do Campo,Membro,Masculino,Casa,30.12,8,12.048,253.008,2024-03-03,13:01:00,Dinheiro,7.7
+280-35-5823,B,São Bernardo do Campo,Membro,Feminino,Casa,86.72,1,4.336,91.056,2024-01-17,18:45:00,Carteira Digital,7.9
+554-53-8700,C,São Caetano,Membro,Masculino,Casa,56.11,2,5.611,117.831,2024-02-02,10:11:00,Dinheiro,6.3
+354-25-5821,B,São Bernardo do Campo,Membro,Feminino,Esportes e Viagem,69.12,6,20.736,435.456,2024-02-08,13:03:00,Dinheiro,5.6
+228-96-1411,C,São Caetano,Membro,Feminino,Alimentos e Bebidas,98.7,8,39.48,829.08,2024-03-04,20:39:00,Dinheiro,7.6
+617-15-4209,C,São Caetano,Membro,Masculino,Saúde e Beleza,15.37,2,1.537,32.277,2024-03-16,19:47:00,Dinheiro,7.2
+132-32-9879,B,São Bernardo do Campo,Membro,Feminino,Eletrônicos,93.96,4,18.792,394.632,2024-03-09,18:00:00,Dinheiro,9.5
+370-41-7321,B,São Bernardo do Campo,Membro,Masculino,Saúde e Beleza,56.69,9,25.5105,535.7205,2024-02-27,17:24:00,Cartão de Crédito,8.4
+727-46-3608,B,São Bernardo do Campo,Membro,Feminino,Alimentos e Bebidas,20.01,9,9.0045,189.0945,2024-02-06,15:47:00,Carteira Digital,4.1
+669-54-1719,B,São Bernardo do Campo,Membro,Masculino,Eletrônicos,18.93,6,5.679,119.259,2024-02-10,12:45:00,Cartão de Crédito,8.1
+574-22-5561,C,São Caetano,Membro,Feminino,Moda,82.63,10,41.315,867.615,2024-03-19,17:08:00,Carteira Digital,7.9
+326-78-5178,C,São Caetano,Membro,Masculino,Alimentos e Bebidas,91.4,7,31.99,671.79,2024-02-03,10:19:00,Dinheiro,9.5
+162-48-8011,A,Santo André,Membro,Feminino,Alimentos e Bebidas,44.59,5,11.1475,234.0975,2024-02-10,15:10:00,Dinheiro,8.5
+616-24-2851,B,São Bernardo do Campo,Membro,Feminino,Moda,17.87,4,3.574,75.054,2024-03-22,14:42:00,Carteira Digital,6.5
+778-71-5554,C,São Caetano,Membro,Masculino,Moda,15.43,1,0.7715,16.2015,2024-01-25,15:46:00,Cartão de Crédito,6.1
+242-55-6721,B,São Bernardo do Campo,Normal,Masculino,Casa,16.16,2,1.616,33.936,2024-03-07,11:49:00,Carteira Digital,6.5
+399-46-5918,C,São Caetano,Normal,Feminino,Eletrônicos,85.98,8,34.392,722.232,2024-02-28,19:01:00,Dinheiro,8.2
+106-35-6779,A,Santo André,Membro,Masculino,Casa,44.34,2,4.434,93.114,2024-03-27,11:26:00,Dinheiro,5.8
+635-40-6220,A,Santo André,Normal,Masculino,Saúde e Beleza,89.6,8,35.84,752.64,2024-02-07,11:28:00,Carteira Digital,6.6
+817-48-8732,A,Santo André,Membro,Feminino,Casa,72.35,10,36.175,759.675,2024-01-20,15:55:00,Dinheiro,5.4
+120-06-4233,C,São Caetano,Normal,Masculino,Eletrônicos,30.61,6,9.183,192.843,2024-03-12,20:36:00,Dinheiro,9.3
+285-68-5083,C,São Caetano,Membro,Feminino,Esportes e Viagem,24.74,3,3.711,77.931,2024-02-15,17:47:00,Cartão de Crédito,10.0
+803-83-5989,C,São Caetano,Normal,Masculino,Casa,55.73,6,16.719,351.099,2024-02-24,10:55:00,Carteira Digital,7.0
+347-34-2234,B,São Bernardo do Campo,Membro,Feminino,Esportes e Viagem,55.07,9,24.7815,520.4115,2024-02-03,13:40:00,Carteira Digital,10.0
+199-75-8169,A,Santo André,Membro,Masculino,Esportes e Viagem,15.81,10,7.905,166.005,2024-03-06,12:27:00,Cartão de Crédito,8.6
+853-23-2453,B,São Bernardo do Campo,Membro,Masculino,Saúde e Beleza,75.74,4,15.148,318.108,2024-02-14,14:35:00,Dinheiro,7.6
+877-22-3308,A,Santo André,Membro,Masculino,Saúde e Beleza,15.87,10,7.935,166.635,2024-03-13,16:40:00,Dinheiro,5.8
+838-78-4295,C,São Caetano,Normal,Feminino,Saúde e Beleza,33.47,2,3.347,70.287,2024-02-10,15:43:00,Carteira Digital,6.7
+109-28-2512,B,São Bernardo do Campo,Membro,Feminino,Moda,97.61,6,29.283,614.943,2024-01-07,15:01:00,Carteira Digital,9.9
+232-11-3025,A,Santo André,Normal,Masculino,Esportes e Viagem,78.77,10,39.385,827.085,2024-01-24,10:04:00,Dinheiro,6.4
+382-03-4532,A,Santo André,Membro,Feminino,Saúde e Beleza,18.33,1,0.9165,19.2465,2024-02-02,18:50:00,Dinheiro,4.3
+393-65-2792,C,São Caetano,Normal,Masculino,Alimentos e Bebidas,89.48,10,44.74,939.54,2024-01-06,12:46:00,Cartão de Crédito,9.6
+796-12-2025,C,São Caetano,Normal,Masculino,Moda,62.12,10,31.06,652.26,2024-02-11,16:19:00,Dinheiro,5.9
+510-95-6347,B,São Bernardo do Campo,Membro,Feminino,Alimentos e Bebidas,48.52,3,7.278,152.838,2024-03-05,18:17:00,Carteira Digital,4.0
+841-35-6630,C,São Caetano,Normal,Feminino,Eletrônicos,75.91,6,22.773,478.233,2024-03-09,18:21:00,Dinheiro,8.7
+287-21-9091,A,Santo André,Normal,Masculino,Casa,74.67,9,33.6015,705.6315,2024-01-22,10:55:00,Carteira Digital,9.4
+732-94-0499,C,São Caetano,Normal,Feminino,Eletrônicos,41.65,10,20.825,437.325,2024-01-13,17:04:00,Cartão de Crédito,5.4
+263-10-3913,C,São Caetano,Membro,Masculino,Moda,49.04,9,22.068,463.428,2024-01-09,14:20:00,Cartão de Crédito,8.6
+381-20-0914,A,Santo André,Membro,Feminino,Moda,20.01,9,9.0045,189.0945,2024-01-12,15:48:00,Cartão de Crédito,5.7
+829-49-1914,C,São Caetano,Membro,Feminino,Alimentos e Bebidas,78.31,10,39.155,822.255,2024-03-05,16:24:00,Carteira Digital,6.6
+756-01-7507,C,São Caetano,Normal,Feminino,Saúde e Beleza,20.38,5,5.095,106.995,2024-01-22,18:56:00,Dinheiro,6.0
+870-72-4431,C,São Caetano,Normal,Feminino,Saúde e Beleza,99.19,6,29.757,624.897,2024-01-21,14:42:00,Cartão de Crédito,5.5
+847-38-7188,B,São Bernardo do Campo,Normal,Feminino,Alimentos e Bebidas,96.68,3,14.502,304.542,2024-01-26,19:56:00,Carteira Digital,6.4
+480-63-2856,C,São Caetano,Normal,Masculino,Alimentos e Bebidas,19.25,8,7.7,161.7,2024-01-23,18:37:00,Carteira Digital,6.6
+787-56-0757,C,São Caetano,Membro,Feminino,Alimentos e Bebidas,80.36,4,16.072,337.512,2024-02-23,18:45:00,Cartão de Crédito,8.3
+360-39-5055,C,São Caetano,Membro,Masculino,Esportes e Viagem,48.91,5,12.2275,256.7775,2024-03-09,10:17:00,Dinheiro,6.6
+730-50-9884,C,São Caetano,Normal,Feminino,Esportes e Viagem,83.06,7,29.071,610.491,2024-03-05,14:31:00,Carteira Digital,4.0
+362-58-8315,C,São Caetano,Normal,Masculino,Moda,76.52,5,19.13,401.73,2024-03-25,10:23:00,Dinheiro,9.9
+633-44-8566,A,Santo André,Membro,Masculino,Alimentos e Bebidas,49.38,7,17.283,362.943,2024-03-27,20:35:00,Cartão de Crédito,7.3
+504-35-8843,A,Santo André,Normal,Masculino,Esportes e Viagem,42.47,1,2.1235,44.5935,2024-01-02,16:57:00,Dinheiro,5.7
+318-68-5053,B,São Bernardo do Campo,Normal,Feminino,Saúde e Beleza,76.99,6,23.097,485.037,2024-02-27,17:55:00,Dinheiro,6.1
+565-80-5980,C,São Caetano,Membro,Feminino,Casa,47.38,4,9.476,198.996,2024-01-23,10:25:00,Dinheiro,7.1
+225-32-0908,C,São Caetano,Normal,Feminino,Esportes e Viagem,44.86,10,22.43,471.03,2024-01-26,19:54:00,Carteira Digital,8.2
+873-51-0671,A,Santo André,Membro,Feminino,Esportes e Viagem,21.98,7,7.693,161.553,2024-01-10,16:42:00,Carteira Digital,5.1
+152-08-9985,B,São Bernardo do Campo,Membro,Masculino,Saúde e Beleza,64.36,9,28.962,608.202,2024-03-12,12:09:00,Cartão de Crédito,8.6
+512-91-0811,C,São Caetano,Normal,Masculino,Saúde e Beleza,89.75,1,4.4875,94.2375,2024-02-06,20:05:00,Cartão de Crédito,6.6
+594-34-4444,A,Santo André,Normal,Masculino,Eletrônicos,97.16,1,4.858,102.018,2024-03-08,20:38:00,Carteira Digital,7.2
+766-85-7061,B,São Bernardo do Campo,Normal,Masculino,Saúde e Beleza,87.87,10,43.935,922.635,2024-03-29,10:25:00,Carteira Digital,5.1
+871-39-9221,C,São Caetano,Normal,Feminino,Eletrônicos,12.45,6,3.735,78.435,2024-02-09,13:11:00,Dinheiro,4.1
+865-92-6136,A,Santo André,Normal,Masculino,Alimentos e Bebidas,52.75,3,7.9125,166.1625,2024-03-23,10:16:00,Carteira Digital,9.3
+733-01-9107,B,São Bernardo do Campo,Normal,Masculino,Casa,82.7,6,24.81,521.01,2024-03-05,18:14:00,Dinheiro,7.4
+163-56-7055,C,São Caetano,Membro,Masculino,Moda,48.71,1,2.4355,51.1455,2024-03-26,19:20:00,Dinheiro,4.1
+189-98-2939,C,São Caetano,Normal,Masculino,Moda,78.55,9,35.3475,742.2975,2024-03-01,13:22:00,Dinheiro,7.2
+551-21-3069,C,São Caetano,Normal,Feminino,Eletrônicos,23.07,9,10.3815,218.0115,2024-02-01,11:27:00,Dinheiro,4.9
+212-62-1842,A,Santo André,Normal,Masculino,Alimentos e Bebidas,58.26,6,17.478,367.038,2024-03-28,16:44:00,Dinheiro,9.9
+716-39-1409,B,São Bernardo do Campo,Normal,Masculino,Saúde e Beleza,30.35,7,10.6225,223.0725,2024-03-19,18:19:00,Dinheiro,8.0
+704-48-3927,A,Santo André,Membro,Masculino,Eletrônicos,88.67,10,44.335,931.035,2024-01-12,14:50:00,Carteira Digital,7.3
+628-34-3388,C,São Caetano,Normal,Masculino,Moda,27.38,6,8.214,172.494,2024-01-05,20:54:00,Cartão de Crédito,7.9
+630-74-5166,A,Santo André,Normal,Masculino,Esportes e Viagem,62.13,6,18.639,391.419,2024-03-22,20:19:00,Dinheiro,7.4
+588-01-7461,C,São Caetano,Normal,Feminino,Alimentos e Bebidas,33.98,9,15.291,321.111,2024-03-24,10:43:00,Dinheiro,4.2
+861-77-0145,C,São Caetano,Membro,Masculino,Eletrônicos,81.97,10,40.985,860.685,2024-03-03,14:30:00,Dinheiro,9.2
+479-26-8945,B,São Bernardo do Campo,Membro,Feminino,Esportes e Viagem,16.49,2,1.649,34.629,2024-02-05,11:32:00,Carteira Digital,4.6
+210-67-5886,C,São Caetano,Membro,Feminino,Saúde e Beleza,98.21,3,14.7315,309.3615,2024-02-05,10:41:00,Cartão de Crédito,7.8
+227-78-1148,B,São Bernardo do Campo,Normal,Feminino,Moda,72.84,7,25.494,535.374,2024-02-15,12:44:00,Dinheiro,8.4
+645-44-1170,A,Santo André,Membro,Masculino,Casa,58.07,9,26.1315,548.7615,2024-01-19,20:07:00,Carteira Digital,4.3
+237-01-6122,C,São Caetano,Membro,Feminino,Casa,80.79,9,36.3555,763.4655,2024-02-01,20:31:00,Cartão de Crédito,9.5
+225-98-1496,C,São Caetano,Normal,Feminino,Moda,27.02,3,4.053,85.113,2024-03-02,13:01:00,Cartão de Crédito,7.1
+291-32-1427,B,São Bernardo do Campo,Membro,Masculino,Moda,21.94,5,5.485,115.185,2024-03-05,12:29:00,Carteira Digital,5.3
+659-65-8956,B,São Bernardo do Campo,Membro,Masculino,Moda,51.36,1,2.568,53.928,2024-01-16,15:26:00,Carteira Digital,5.2
+642-32-2990,A,Santo André,Normal,Feminino,Alimentos e Bebidas,10.96,10,5.48,115.08,2024-02-02,20:48:00,Carteira Digital,6.0
+378-24-2715,B,São Bernardo do Campo,Normal,Masculino,Casa,53.44,2,5.344,112.224,2024-01-20,20:38:00,Carteira Digital,4.1
+638-60-7125,A,Santo André,Normal,Feminino,Eletrônicos,99.56,8,39.824,836.304,2024-02-14,17:03:00,Cartão de Crédito,5.2
+659-36-1684,C,São Caetano,Membro,Masculino,Esportes e Viagem,57.12,7,19.992,419.832,2024-01-12,12:02:00,Cartão de Crédito,6.5
+219-22-9386,B,São Bernardo do Campo,Membro,Masculino,Esportes e Viagem,99.96,9,44.982,944.622,2024-03-09,17:26:00,Cartão de Crédito,4.2
+336-78-2147,C,São Caetano,Membro,Masculino,Casa,63.91,8,25.564,536.844,2024-03-13,19:52:00,Cartão de Crédito,4.6
+268-27-6179,B,São Bernardo do Campo,Membro,Feminino,Moda,56.47,8,22.588,474.348,2024-03-09,14:57:00,Carteira Digital,7.3
+668-90-8900,A,Santo André,Normal,Feminino,Casa,93.69,7,32.7915,688.6215,2024-03-10,18:44:00,Cartão de Crédito,4.5
+870-54-3162,A,Santo André,Normal,Feminino,Esportes e Viagem,32.25,5,8.0625,169.3125,2024-01-27,13:26:00,Dinheiro,9.0
+189-08-9157,C,São Caetano,Normal,Feminino,Moda,31.73,9,14.2785,299.8485,2024-01-08,16:17:00,Cartão de Crédito,5.9
+663-86-9076,C,São Caetano,Membro,Feminino,Alimentos e Bebidas,68.54,8,27.416,575.736,2024-01-08,15:57:00,Carteira Digital,8.5
+549-84-7482,B,São Bernardo do Campo,Normal,Feminino,Esportes e Viagem,90.28,9,40.626,853.146,2024-02-08,11:15:00,Carteira Digital,7.2
+191-10-6171,B,São Bernardo do Campo,Normal,Feminino,Moda,39.62,7,13.867,291.207,2024-01-25,13:18:00,Dinheiro,7.5
+802-70-5316,A,Santo André,Membro,Feminino,Esportes e Viagem,92.13,6,27.639,580.419,2024-03-06,20:34:00,Dinheiro,8.3
+695-51-0018,B,São Bernardo do Campo,Normal,Feminino,Esportes e Viagem,34.84,4,6.968,146.328,2024-02-10,18:36:00,Dinheiro,7.4
+590-83-4591,B,São Bernardo do Campo,Membro,Masculino,Eletrônicos,87.45,6,26.235,550.935,2024-02-17,14:40:00,Cartão de Crédito,8.8
+483-71-1164,C,São Caetano,Normal,Feminino,Saúde e Beleza,81.3,6,24.39,512.19,2024-03-08,16:43:00,Carteira Digital,5.3
+597-78-7908,C,São Caetano,Normal,Masculino,Moda,90.22,3,13.533,284.193,2024-02-18,19:39:00,Dinheiro,6.2
+700-81-1757,A,Santo André,Normal,Feminino,Eletrônicos,26.31,5,6.5775,138.1275,2024-01-18,20:59:00,Cartão de Crédito,8.8
+354-39-5160,A,Santo André,Membro,Feminino,Casa,34.42,6,10.326,216.846,2024-02-18,15:39:00,Dinheiro,9.8
+241-72-9525,B,São Bernardo do Campo,Normal,Masculino,Esportes e Viagem,51.91,10,25.955,545.055,2024-02-16,12:21:00,Dinheiro,8.2
+575-30-8091,A,Santo André,Normal,Masculino,Esportes e Viagem,72.5,8,29.0,609.0,2024-03-16,19:25:00,Carteira Digital,9.2
+731-81-9469,C,São Caetano,Membro,Feminino,Esportes e Viagem,89.8,10,44.9,942.9,2024-01-23,13:00:00,Cartão de Crédito,5.4
+280-17-4359,C,São Caetano,Membro,Masculino,Saúde e Beleza,90.5,10,45.25,950.25,2024-01-25,13:48:00,Dinheiro,8.1
+338-65-2210,C,São Caetano,Membro,Feminino,Saúde e Beleza,68.6,10,34.3,720.3,2024-02-05,19:57:00,Dinheiro,9.1
+488-25-4221,C,São Caetano,Membro,Feminino,Alimentos e Bebidas,30.41,1,1.5205,31.9305,2024-02-22,10:36:00,Cartão de Crédito,8.4
+239-10-7476,A,Santo André,Normal,Feminino,Casa,77.95,6,23.385,491.085,2024-01-21,16:37:00,Carteira Digital,8.0
+458-41-1477,C,São Caetano,Normal,Feminino,Saúde e Beleza,46.26,6,13.878,291.438,2024-03-08,17:11:00,Cartão de Crédito,9.5
+685-64-1609,A,Santo André,Membro,Feminino,Moda,30.14,10,15.07,316.47,2024-02-10,12:28:00,Carteira Digital,9.2
+568-90-5112,C,São Caetano,Normal,Masculino,Saúde e Beleza,66.14,4,13.228,277.788,2024-03-19,12:46:00,Cartão de Crédito,5.6
+262-47-2794,B,São Bernardo do Campo,Membro,Masculino,Casa,71.86,8,28.744,603.624,2024-03-06,15:07:00,Cartão de Crédito,6.2
